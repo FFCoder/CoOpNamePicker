@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+.wholePage {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #061999;
+}
+
+.main {
+  position: relative;
+  left: 35%;
+  top: 35%;
+
+  padding: 20px;
+  border-radius: 10px;
+  width: 22%;
+  height: 22%;
+  background-color: #A67F30;
+
+  -moz-box-shadow: 5px 5px 5px #808080;
+  -webkit-box-shadow: 5px 5px 5px #808080;
+
+  box-shadow: 5px 5px 5px #808080;
+
+
+}
+#descText {
+  position: relative;
+  left: 10%;
+  color: black;
+}
+#nameInput {
+  position: relative;
+  top: 30px;
+  left:40px;
+
+
+}
+#randButton {
+  position: relative;
+  top: 30%;
+  left: 15%;
+}
+#grocIMG {
+  border-radius: 10px;
+  width:20%;
+}
